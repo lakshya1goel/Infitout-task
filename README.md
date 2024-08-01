@@ -1,16 +1,35 @@
-# assignment
+# Infitout-task
 
-A new Flutter project.
+A new Flutter project demonstrating linked scroll controllers with tables, allowing custom horizontal scrolling. 
+
+## Video Demonstration
+
+You can watch the video demonstration [here](https://drive.google.com/file/d/1yJ2pu-LPOuXcUp1-09CKi-DJuispeytL/view?usp=sharing).
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+### Prerequisites
 
-A few resources to get you started if this is your first Flutter project:
+- Flutter SDK (version 3.22.2)
+- Dart SDK (version 3.4.3 or higher)
+- An IDE such as Android Studio, IntelliJ, or Visual Studio Code
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### Installation
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1. **Clone the repository:**
+
+   ```bash
+   https://github.com/lakshya1goel/Infitout-task.git
+   cd Infitout-task
+2. **Install dependencies**
+
+   ```bash
+   flutter pub get
+3. **Run the app**
+
+   ```bash
+   flutter run
+
+### Dependencies 
+1. [linked_scroll_controller](https://pub.dev/packages/linked_scroll_controller)
+2. [horizontal_data_table](https://pub.dev/packages/horizontal_data_table)
